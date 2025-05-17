@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Sep 2024 01:02:20 at https://mattpriorwatson.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mattpriorwatson.co.uk/ -O1 "C:\My Web Sites\Matt Prior Watson" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:02:46	Warning: 	Retry after error -4 (Connect Error) at link use.typekit.net/ik/sv7vn92yPsaV9THiTnQSmPfxl-mIMI1XjlOLWDekcwIfeTSgfHYEBsJzwD9oFDIDWDMUjQZ8jcJkwDJaZ2IawR6kZQjDjRjawRSoFDMUjA9uwQiq5ebkwhI-MfJIZ1s0-kJI-18tdPG4fJZmIMMjMkMfH6qJyB9bMg6IJMJ7fbRxmgMMeM96MKG4fJBmIMMjgkMfH6qJnmbbMs62JMJ7fbKTmgMgeMb6MKG4fHl9IMIjgkMfqMeZzNkXg6.js?cb=b2a7682f8ff92142c4803bbf7a281a18f76c4d84 (from https://mattpriorwatson.co.uk/)
+01:03:16	Warning: 	Retry after error -4 (Connect Error) at link use.typekit.net/ik/sv7vn92yPsaV9THiTnQSmPfxl-mIMI1XjlOLWDekcwIfeTSgfHYEBsJzwD9oFDIDWDMUjQZ8jcJkwDJaZ2IawR6kZQjDjRjawRSoFDMUjA9uwQiq5ebkwhI-MfJIZ1s0-kJI-18tdPG4fJZmIMMjMkMfH6qJyB9bMg6IJMJ7fbRxmgMMeM96MKG4fJBmIMMjgkMfH6qJnmbbMs62JMJ7fbKTmgMgeMb6MKG4fHl9IMIjgkMfqMeZzNkXg6.js?cb=b2a7682f8ff92142c4803bbf7a281a18f76c4d84 (from https://mattpriorwatson.co.uk/)
+01:03:46	Error: 	"Connect Error" (-4) after 2 retries at link use.typekit.net/ik/sv7vn92yPsaV9THiTnQSmPfxl-mIMI1XjlOLWDekcwIfeTSgfHYEBsJzwD9oFDIDWDMUjQZ8jcJkwDJaZ2IawR6kZQjDjRjawRSoFDMUjA9uwQiq5ebkwhI-MfJIZ1s0-kJI-18tdPG4fJZmIMMjMkMfH6qJyB9bMg6IJMJ7fbRxmgMMeM96MKG4fJBmIMMjgkMfH6qJnmbbMs62JMJ7fbKTmgMgeMb6MKG4fHl9IMIjgkMfqMeZzNkXg6.js?cb=b2a7682f8ff92142c4803bbf7a281a18f76c4d84 (from https://mattpriorwatson.co.uk/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 26 seconds : 64 links scanned, 60 files written (29025451 bytes overall) [29067759 bytes received at 337997 bytes/sec], 3.6 requests per connection
+(1 errors, 2 warnings, 0 messages)
